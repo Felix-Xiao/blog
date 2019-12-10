@@ -1,11 +1,11 @@
 # Site settings
-title: gankai Blog
-SEOTitle: gankai博客 | gankai Blog
+title: Felix Blog
+SEOTitle: Felix博客 | Felix Blog
 header-img: img/homePage.jpg
-email: gk1424301572@outlook.com
+email: 914321664@qq.com
 description: "Things that can make you miserable will surely make you strong, grow up, and must experience what others can't!"
-keyword: "Java, JavaScript, 博客, GitHubGanKai, vue, web, blog, js"
-url: "http://gankai.online/."          # your host, for absolute URL
+keyword: "Java, JavaScript, 博客, GitFelix, vue, web, blog, js"
+url: "http://felix.online/."          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/GitHubGanKai/blog.git" # you code repository
 
@@ -18,12 +18,12 @@ sidebar-avatar: /img/about-BY-gentle.png      # use absolute URL, seeing it's us
 
 # SNS settings
 RSS: false
-weibo_username:     6131084360
-zhihu_username:     ren-qing-zi-ji-9
-github_username:    GitHubGanKai
-# facebook_username:  baiying.qiu.7
-jianshu_username:   4365773d2dd5
-#twitter_username:   GitHubGanKai
+#weibo_username:     6131084360
+zhihu_username:     Felix
+github_username:    Felix-Xiao
+# facebook_username:  
+#jianshu_username:   
+#twitter_username:   
 
 
 
@@ -58,7 +58,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: GitHubGanKai
+# disqus_username: Felix-Xiao
 
 # Gitalk
 gitalk:
@@ -66,8 +66,8 @@ gitalk:
   clientID: d2223ef21ecae706fcb4                            #生成的clientID
   clientSecret: 8fecef465f9f3dc81f11bd98ec59d4644eb9282a    #生成的clientSecret
   repo: blog    #仓库名称 
-  owner: GitHubGanKai    #github用户名
-  admin: GitHubGanKai
+  owner: Felix-Xiao    #github用户名
+  admin: Felix-Xiao
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
