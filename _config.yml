@@ -5,7 +5,7 @@ header-img: img/homePage.jpg
 email: 914321664@qq.com
 description: "Things that can make you miserable will surely make you strong, grow up, and must experience what others can't!"
 keyword: "Java, JavaScript, 博客, GitFelix, vue, web, blog, js"
-url: "https://github.com/Felix-Xiao/blog"          # your host, for absolute URL
+url: "https://felix-xiao.github.io/blog"          # your host, for absolute URL https://github.com/Felix-Xiao/blog
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/Felix-Xiao/blog.git" # you code repository
 
