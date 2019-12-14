@@ -1,17 +1,17 @@
 
 
-![](https://raw.githubusercontent.com/GitHubGanKai/blog/master/img/readme-home.png)
+![](https://raw.githubusercontent.com/Felix-Xiao/blog/master/img/readme-home.png)
 
 <p align='center'>
-	<a href="https://github.com/GitHubGanKai/blog/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/GitHubGanKai/blog.svg"></a>
-	<a href="https://github.com/GitHubGanKai/blog/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/GitHubGanKai/blog.svg"></a>
-	<a href="https://github.com/GitHubGanKai/blog/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/GitHubGanKai/blog.svg"></a>
-	<a href="https://github.com/GitHubGanKai/blog/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/GitHubGanKai/blog.svg"></a>
-	<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FGitHubGanKai%2Fblog"><img alt="Twitter" src="https://img.shields.io/twitter/url/https/github.com/GitHubGanKai/blog.svg?style=social"></a>
+	<a href="https://github.com/Felix-Xiao/blog/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/Felix-Xiao/blog.svg"></a>
+	<a href="https://github.com/Felix-Xiao/blog/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/Felix-Xiao/blog.svg"></a>
+	<a href="https://github.com/Felix-Xiao/blog/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/Felix-Xiao/blog.svg"></a>
+	<a href="https://github.com/Felix-Xiao/blog/blob/master/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/Felix-Xiao/blog.svg"></a>
+	<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2FFelix-Xiao%2Fblog"><img alt="Twitter" src="https://img.shields.io/twitter/url/https/github.com/Felix-Xiao/blog.svg?style=social"></a>
 </p>
 
 >
-### [查看博客戳这里 👆](http://gankai.online/)
+### [查看博客戳这里 👆](https://felix-xiao.github.io/blog/)
 
 
 
@@ -50,12 +50,12 @@
 ```
 # Site settings
 title: BY Blog                    # 你的博客网站标题
-SEOTitle: 甘凯的博客 | GK Blog		# SEO 标题
+SEOTitle: Felix的博客 | Felix Blog		# SEO 标题
 description: "Hey"	   	   # 随便说点，描述一下
 
 # SNS settings      
-github_username: GitHubGanKai     # 你的github账号
-jianshu_username: 4365773d2dd5  # 你的简书ID。
+github_username: Felix-Xiao     # 你的github账号
+# jianshu_username: 			# 你的简书ID。
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
@@ -88,7 +88,7 @@ tags:
 ### 侧边栏
 
 看右边:
-![](https://raw.githubusercontent.com/GitHubGanKai/blog/master/img/readme-side.png)
+![](https://raw.githubusercontent.com/Felix-Xiao/blog/master/img/readme-side.png)
 
 设置是在 `_config.yml`文件里面的`Sidebar settings`那块。
 
@@ -148,7 +148,7 @@ featured-condition-size: 1     # A tag will be featured if the size of it is mor
 friends: [
     {
         title: "GK Blog",
-        href: "https://github.com/GitHubGanKai/blog"
+        href: "https://github.com/Felix-Xiao/blog"
     },
     {
         title: "Apple",
@@ -277,4 +277,4 @@ ga_domain: huangxuan.me			# 默认的是 auto, 这里我是自定义了的域名
 
 ## License
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/GitHubGanKai/blog/blob/master/LICENSE)。
+遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/Felix-Xiao/blog/blob/master/LICENSE)。
