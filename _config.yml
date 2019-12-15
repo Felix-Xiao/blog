@@ -12,7 +12,7 @@ github_repo: "https://github.com/Felix-Xiao/blog.git" # you code repository
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Always optimistic about the future!"
-sidebar-avatar: /blog/img/about-Felix-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-Felix-gentle.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
