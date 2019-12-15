@@ -1,14 +1,14 @@
 {
-    "name": "gk-blog",
-    "title": "GK Blog",
-    "author": "GK <gangkai666@gmail.com>",
-    "version": "1.7.0",
-    "homepage": "https://github.com/GitHubGanKai/blog",
+    "name": "felix-blog",
+    "title": "Felix Blog",
+    "author": "Felix <914321664@qq.com>",
+    "version": "1.0.0",
+    "homepage": "https://github.com/Felix-Xiao/blog",
     "repository": {
         "type": "git",
-        "url": "https://github.com/GitHubGanKai/blog"
+        "url": "https://github.com/Felix-Xiao/blog"
     },
-    "bugs": "https://github.com/GitHubGanKai/blog/issues",
+    "bugs": "https://github.com/Felix-Xiao/blog/issues",
     "devDependencies": {
         "commitizen": "^4.0.3",
         "cz-conventional-changelog": "^3.0.2",
