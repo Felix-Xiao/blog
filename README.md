@@ -11,8 +11,8 @@
 </p>
 
 >
-### [查看博客戳这里 👆](https://felix-xiao.github.io/blog/)
-
+### [查看博客戳这里 👆](https://felix-xiao.github.io/blog/)(http://felixxiao.top/)
+### [查看博客戳这里 👆(使用独立域名)](http://felixxiao.top/)
 
 
 ## 使用
@@ -74,7 +74,7 @@ layout:     post
 title:      最全的Git入门操作使用详解
 subtitle:   最全的Git入门操作使用详解 进阶
 date:       2019-1-27 12:03:16
-author:     gankai
+author:     Felix
 header-img: img/post-bg-ios9-web.jpg
 catalog: true
 tags:
